@@ -74,6 +74,8 @@ To generate the required JSON structure directly from your Power BI data model, 
 
 **Sunil Shetty** — snlshetty87@gmail.com
 
+<a href="https://buymeacoffee.com/snlshetty87" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="142"></a>
+
 ---
 
 ## License
