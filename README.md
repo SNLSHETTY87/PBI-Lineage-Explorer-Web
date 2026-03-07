@@ -6,6 +6,18 @@ This repository contains the **standalone web version** of the PBI Lineage Explo
 
 ---
 
+## Screenshots
+
+![Landing Page](assets/screenshot-home.png)
+
+![Main View](assets/screenshot-main.png)
+
+![Detail View](assets/screenshot-detail.png)
+
+![Light Theme](assets/screenshot-light.png)
+
+---
+
 ## Features
 
 - **Topological stage layout** — nodes arranged left-to-right by dependency depth
